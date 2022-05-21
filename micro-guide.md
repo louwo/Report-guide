@@ -17,9 +17,12 @@ So let's move on to filling, for convenience, you can use my template. Just copy
  
 Now click on "Purpose new file" at the bottom of the page, and then "Create pull request"
 
-   ![image](https://user-images.githubusercontent.com/105949403/169618371-cbe45c12-93f4-42b4-a089-451c7d9e1cc4.png)
- 
-   ![image](https://user-images.githubusercontent.com/105949403/169618483-51c0f2bf-1f0e-4964-b267-57e5c2fb8497.png)
+   ![image](https://user-images.githubusercontent.com/105949403/169672138-e223734e-b55b-419b-bfc7-37bae01a2b58.png)
+   
+   > And again
+   
+ ![image](https://user-images.githubusercontent.com/105949403/169672172-6eef1094-3308-42d8-b984-af63f8f5b010.png)
+
    
 ### Congratulations, everything is ready, it remains to wait for approval!
 
